@@ -16,7 +16,7 @@ What things you need to install the software.
 ### Install
 Clone the git repository on your computer
 
-```$ git clone https://github.com/neoighodaro-articles/e-commerce-laravel-vue.git```
+```$ git clone https://github.com/webdev3514/laravel-demo-app```
 
 
 You can also download the entire repository as a zip file and unpack in on your computer if you do not have git
@@ -24,7 +24,7 @@ You can also download the entire repository as a zip file and unpack in on your 
 After cloning the application, you need to install it's dependencies. 
 
 ```
-$ cd e-commerce-laravel-vue
+$ cd laravel-demo-app
 $ composer install
 ```
 
